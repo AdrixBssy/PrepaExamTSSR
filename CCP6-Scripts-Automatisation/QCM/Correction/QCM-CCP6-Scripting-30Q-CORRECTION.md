@@ -3008,7 +3008,7 @@ function Get-CustomData {
 }
 ```
 
-Q18 : 
+Q18 : **B** ✅
 **Explication** : `|` envoie objets. `$_` = objet courant. `.CPU` = propriété.
 
 Q19 : **B** ✅
